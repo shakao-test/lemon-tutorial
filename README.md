@@ -71,7 +71,7 @@ let spacePlane = sprites.create(img`
 `, SpriteKind.Player)
 ```
 
-## Control your ship
+## {Control your ship}
 
 **Great plane!  Let's get it moving!**
 
@@ -186,7 +186,7 @@ controller.moveSprite(spacePlane, 200, 200)
 spacePlane.setStayInScreen(true)
 ```
 
-## Step 4
+## {Step 4}
 
 The default number of lives for your player is two.
 Let's change that to three.
