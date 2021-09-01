@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.2","target":"arcade","targetVersion":"1.5.46","repo":"shakao-test/lemon-tutorial"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.3","target":"arcade","targetVersion":"1.5.46","repo":"shakao-test/lemon-tutorial"}
 // total=1133013 new=5.57% cached=88.90% other=5.53%
 (function (ectx) {
 'use strict';
@@ -384,7 +384,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P16530(s) {
+function _main___P16600(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -734,13 +734,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P16530.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P16530.continuations = [  ]
+_main___P16600.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P16600.continuations = [  ]
 
-function _main___P16530_mk(s) {
+function _main___P16600_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P16530, depth: s.depth + 1,
+        parent: s, fn: _main___P16600, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -38561,5 +38561,5 @@ const sprites_StaticObstacle__C2178_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P16530
+return _main___P16600
 })
