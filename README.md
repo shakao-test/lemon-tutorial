@@ -131,7 +131,7 @@ let spacePlane = sprites.create(img`
     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 `, SpriteKind.Player)
 // @highlight
-controller.moveSprite(spacePlane, 200, 200)
+controller.moveSprites(spacePlane, 200, 200)
 ```
 
 ## Stay in screen
