@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.4","target":"arcade","targetVersion":"1.5.46","repo":"shakao-test/lemon-tutorial"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.5","target":"arcade","targetVersion":"1.5.46","repo":"shakao-test/lemon-tutorial"}
 // total=1133013 new=5.57% cached=88.90% other=5.53%
 (function (ectx) {
 'use strict';
