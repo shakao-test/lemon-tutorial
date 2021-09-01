@@ -23,11 +23,11 @@ Can you survive the continuous attack?
 
 ---
 
-- :cubes: From the ``||sprites:Sprites||`` category, grab a
+- :cubes red: From the ``||sprites:Sprites||`` category, grab a
 ``||variables:set [mySprite] to sprite [ ] of kind [Player]||`` block and
 snap it into the **on start** block already in the workspace.
 
-- :cubes: Click on the word ``||variables:[mySprite]||`` in the new block to
+- :cubes huge: Click on the word ``||variables:[mySprite]||`` in the new block to
 rename the variable ``||variables:[spacePlane]||``.
 
 - :paint brush: Now click inside the grey box in the new block to open the image editor.
