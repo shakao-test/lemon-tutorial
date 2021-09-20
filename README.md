@@ -79,7 +79,7 @@ let spacePlane = sprites.create(img`
 
 Some intro text goes here
 
-- :py: Find the ``||controller:move [mySprite] with buttons ⊕||`` block
+- :python: Find the ``||controller:move [mySprite] with buttons ⊕||`` block
 and drag it into the bottom of the ``||loops:on start||`` container.
 
 - :code: Change **mySprite** to **spacePlane**.
