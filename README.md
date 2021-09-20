@@ -27,7 +27,7 @@ Can you survive the continuous attack?
 ``||variables:set [mySprite] to sprite [ ] of kind [Player]||`` block and
 snap it into the **on start** block already in the workspace.
 
-- :cubes huge: Click on the word ``||variables:[mySprite]||`` in the new block to
+- :blocks: Click on the word ``||variables:[mySprite]||`` in the new block to
 rename the variable ``||variables:[spacePlane]||``.
 
 - :paint brush: Now click inside the grey box in the new block to open the image editor.
@@ -79,7 +79,7 @@ let spacePlane = sprites.create(img`
 
 Some intro text goes here
 
-- :cubes: Find the ``||controller:move [mySprite] with buttons ⊕||`` block
+- :py: Find the ``||controller:move [mySprite] with buttons ⊕||`` block
 and drag it into the bottom of the ``||loops:on start||`` container.
 
 - :code: Change **mySprite** to **spacePlane**.
@@ -87,7 +87,7 @@ and drag it into the bottom of the ``||loops:on start||`` container.
 Now your ship will move with the joystick or the **W A S D** keys.
 Try moving your ship around in the simulator!
 
-- :cubes: Click the ⊕ at the right of the new block so you can change the
+- :js: Click the ⊕ at the right of the new block so you can change the
 movement speed to **200** for both **vx** and **vy**.
 
 ---
