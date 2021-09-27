@@ -27,7 +27,7 @@ Can you survive the continuous attack?
 ``||variables:set [mySprite] to sprite [ ] of kind [Player]||`` block and
 snap it into the **on start** block already in the workspace.
 
-- :blocks: Click on the word ``||variables:[mySprite]||`` in the new block to
+- :gamepad: Click on the word ``||variables:[mySprite]||`` in the new block to
 rename the variable ``||variables:[spacePlane]||``.
 
 - :paint brush: Now click inside the grey box in the new block to open the image editor.
